@@ -1,0 +1,52 @@
+# UAS Pemrograman Mobile 1
+
+**Nama:** Mahfuz Fauzi  
+**Kelas:** TI.24.A.3  
+**NIM:** 312410412  
+**Mata Kuliah:** Pemrograman Mobile 1  
+**Dosen Pengampu:** Donny Maulana, S.Kom., M.M.S.I.  
+**Universitas Pelita Bangsa**
+
+---
+
+# 📱 Apps Smart Reminder
+
+## 1. Splash Screen (Deteksi Location)
+
+https://github.com/user-attachments/assets/cd8564ee-76f2-4b69-8e3a-4f4e08c8c53f
+
+---
+
+## 2. StoryBoard Project
+
+<img src="https://github.com/Mahfuz311/UAS_Pemrograman_Mobile1/blob/5677e0aa13745fdd472fd936f0512b45bbb4419d/storyboard.png">
+
+---
+
+## 3. Mockup Project
+
+<img src="https://github.com/Mahfuz311/UAS_Pemrograman_Mobile1/blob/3e1730abaf310cb5134e3b5bf06f2c4971714099/Mockup.png" width="50%">
+
+---
+
+## 4. UI (User Interface) Project
+
+<img src="https://github.com/Mahfuz311/UAS_Pemrograman_Mobile1/blob/3e1730abaf310cb5134e3b5bf06f2c4971714099/Ui.png">
+
+---
+
+## 5. UX (User Experience) Project
+
+---
+
+## 6. Gantt ClickUp
+
+<img src="https://github.com/Mahfuz311/UAS_Pemrograman_Mobile1/blob/3e1730abaf310cb5134e3b5bf06f2c4971714099/ClickUp.png">
+
+---
+
+## 7. Link
+
+### Link ClickUp: https://app.clickup.com/90181799239/v/s/90187959384
+
+### Link Youtube: 
