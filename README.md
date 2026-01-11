@@ -29,23 +29,29 @@ https://github.com/user-attachments/assets/cd8564ee-76f2-4b69-8e3a-4f4e08c8c53f
 
 ---
 
-## 4. UI (User Interface) Project
+## 4. Wireframe Project
+
+<img src="https://github.com/Mahfuz311/UAS_Pemrograman_Mobile1/blob/5c3260dec86c03c943149f0ed6970d7ebf0c4842/Wireframe.png">
+
+---
+
+## 5. UI (User Interface) Project
 
 <img src="https://github.com/Mahfuz311/UAS_Pemrograman_Mobile1/blob/3e1730abaf310cb5134e3b5bf06f2c4971714099/Ui.png">
 
 ---
 
-## 5. UX (User Experience) Project
+## 6. UX (User Experience) Project
 
 ---
 
-## 6. Gantt ClickUp
+## 7. Gantt ClickUp
 
 <img src="https://github.com/Mahfuz311/UAS_Pemrograman_Mobile1/blob/3e1730abaf310cb5134e3b5bf06f2c4971714099/ClickUp.png">
 
 ---
 
-## 7. Link
+## 8. Link
 
 ### Link Gantt ClickUp: https://app.clickup.com/90181799239/v/s/90187959384
 
