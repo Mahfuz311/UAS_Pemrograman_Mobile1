@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- 1. BACKGROUND (Jalur Kosong - Abu Muda) -->
+    <item android:id="@android:id/background">
+        <shape>
+            <solid android:color="#EEEEEE" />
+            <corners android:radius="8dp" /> <!-- Sudut membulat -->
+            <size android:height="16dp" />   <!-- KETEBALAN JALUR -->
+        </shape>
+    </item>
+
+    <!-- 2. PROGRESS (Jalur Terisi - Abu Gelap) -->
+    <item android:id="@android:id/progress">
+        <clip>
+            <shape>
+                <solid android:color="#BDBDBD" />
+                <corners android:radius="8dp" />
+                <size android:height="16dp" />   <!-- KETEBALAN JALUR -->
+            </shape>
+        </clip>
+    </item>
+
+</layer-list>

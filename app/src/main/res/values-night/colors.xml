@@ -1,0 +1,16 @@
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#6200EE</color>
+    <color name="purple_700">#3700B3</color>
+    <color name="teal_200">#03DAC5</color>
+    <color name="teal_700">#018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Warna Aplikasi Gelap -->
+    <color name="app_background">#121212</color>  <!-- Hitam Pekat -->
+    <color name="card_background">#1E1E1E</color> <!-- Abu Hitam -->
+    <color name="text_primary">#FFFFFF</color>    <!-- Putih -->
+    <color name="text_secondary">#B0B0B0</color>  <!-- Abu Terang -->
+    <color name="icon_tint">#90CAF9</color>       <!-- Biru Muda -->
+</resources>
