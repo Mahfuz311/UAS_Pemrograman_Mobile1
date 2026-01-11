@@ -47,6 +47,6 @@ https://github.com/user-attachments/assets/cd8564ee-76f2-4b69-8e3a-4f4e08c8c53f
 
 ## 7. Link
 
-### Link ClickUp: https://app.clickup.com/90181799239/v/s/90187959384
+### Link Gantt ClickUp: https://app.clickup.com/90181799239/v/s/90187959384
 
 ### Link Youtube: 
