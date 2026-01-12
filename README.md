@@ -43,6 +43,10 @@ https://github.com/user-attachments/assets/cd8564ee-76f2-4b69-8e3a-4f4e08c8c53f
 
 ## 6. UX (User Experience) Project
 
+### Klik Thumbnailnya anda akan di arahkan ke youtube.
+
+[![UX Apps Smart Reminder](https://img.youtube.com/vi/7B6KKJNmxss/hqdefault.jpg)](www.youtube.com)
+
 ---
 
 ## 7. Gantt ClickUp
@@ -55,4 +59,6 @@ https://github.com/user-attachments/assets/cd8564ee-76f2-4b69-8e3a-4f4e08c8c53f
 
 ### Link Gantt ClickUp: https://app.clickup.com/90181799239/v/s/90187959384
 
-### Link Youtube: 
+### Link Youtube: https://youtu.be/7B6KKJNmxss
+
+---
