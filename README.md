@@ -45,7 +45,7 @@ https://github.com/user-attachments/assets/cd8564ee-76f2-4b69-8e3a-4f4e08c8c53f
 
 ### Klik Thumbnailnya anda akan di arahkan ke youtube.
 
-[![UX Apps Smart Reminder](https://img.youtube.com/vi/7B6KKJNmxss/hqdefault.jpg)](www.youtube.com)
+[![UX Apps Smart Reminder](https://img.youtube.com/vi/7B6KKJNmxss/hqdefault.jpg)](www.youtube.com/7B6KKJNmxss)
 
 ---
 
